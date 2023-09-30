@@ -1,4 +1,5 @@
 [![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Ff8%2F41%2Fac%2Ff841ac2befaedda240c55a06b23b33ec.gif&f=1&nofb=1&ipt=c07779a8be65e026b61cc03f2ca030ef03bea83f926efa868e1c843bde8a393e&ipo=images)](https://github.com/kartiknagila/)
+
 <h1 align="center">Hi 👋, I'm Kartik Nagila</h1>
 <h3 align="center">A passionate aspiring data analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
