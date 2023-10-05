@@ -31,9 +31,9 @@ Here are some of the skills I bring to the table:
 
 ## GitHub Stats 📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidlaid14&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidlaid143&show_icons=true&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=David-Laid&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Kimberly-Clarke&color=blue)
 
 📧 **Email:** [kimberly.clarke@example.com](mailto:kimberly.clarke@example.com)
 
