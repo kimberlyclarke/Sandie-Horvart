@@ -35,6 +35,6 @@ Here are some of the skills I bring to the table:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kimberlyclarke&color=blue)
 
-📧 **Email:** [mary.carter@example.com](mailto:kimberlyclarke@example.com)
+📧 **Email:** [kimberlyclarke@example.com](mailto:kimberlyclarke@example.com)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Let's connect and learn together! 🤝
